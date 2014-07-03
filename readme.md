@@ -1,2 +1,1 @@
-- Thông tin ở đây được clone thêm một bản ở iMac, thư mục haviet
-- Tạm thời dùng để ghi chú về công việc. Web sẽ đưa lên sau.
+Nhánh này là nội dung trang web tại địa chỉ http://haviet.github.com/notes

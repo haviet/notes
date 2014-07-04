@@ -1,4 +1,4 @@
-Đéo biết tiếng Ăng-lê gọi là cái gì. Nhưng thấy khá nhiều.
+~~Đéo biết tiếng Ăng-lê gọi là cái gì~~. Tiếng Ăng-lê gọi là Front-end Framework thì phải. Thấy khá nhiều.
 
 Hình dung nó giống như một trang web được xây dựng sẵn với đầy đủ các thư viện (Javascript?) và style (css?) kèm theo.
 
@@ -15,3 +15,14 @@ Người dùng chỉ việc lấy về rồi layout trang web dựa trên nhữn
 - Phải học sử dụng, nhất là khi làm styling.
 - Tinh chỉnh theo yêu cầu cụ thể khá nhọc nhằn.
 - Khó tích hợp vào một CMS có sẵn.
+
+##Tham khảo:
+
+- [html5boilerplate]
+- [twitter boostrap]
+- [foundation]
+
+
+[html5boilerplate]: http://html5boilerplate.com/
+[twitter boostrap]: http://getbootstrap.com/
+[foundation]: http://foundation.zurb.com/

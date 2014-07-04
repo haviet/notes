@@ -1,8 +1,4 @@
-~~Đéo biết tiếng Ăng-lê gọi là cái gì~~. Tiếng Ăng-lê gọi là Front-end Framework thì phải. Thấy khá nhiều.
-
-Hình dung nó giống như một trang web được xây dựng sẵn với đầy đủ các thư viện (Javascript?) và style (css?) kèm theo.
-
-Người dùng chỉ việc lấy về rồi layout trang web dựa trên những thứ cung cấp sẵn đó.
+~~Đéo biết tiếng Ăng-lê gọi là cái gì~~. Tiếng Ăng-lê gọi là `Front-end Framework`. Thấy khá nhiều. Hình dung nó giống như một trang web được xây dựng sẵn với đầy đủ các thư viện (Javascript?) và style (css?) kèm theo. Người dùng chỉ việc lấy về rồi layout trang web dựa trên những thứ cung cấp sẵn đó.
 
 ##Lợi:
 

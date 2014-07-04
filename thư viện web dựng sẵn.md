@@ -18,12 +18,11 @@ Người dùng chỉ việc lấy về rồi layout trang web dựa trên nhữn
 
 ##Tham khảo:
 
-- [html5boilerplate]
-- [twitter boostrap]
-- [foundation]
+- [html5boilerplate], [twitter boostrap], [foundation], [initializr]...
 - Gúc `Front-end Framework` búp phát ra một đống. [Top ten này](http://www.sitepoint.com/top-10-front-end-development-frameworks/). Lại còn [đây nữa](http://www.awwwards.com/what-are-frameworks-22-best-responsive-css-frameworks-for-web-design.html) đcm... Sao lắm thế nhỉ?
 
 
 [html5boilerplate]: http://html5boilerplate.com/
 [twitter boostrap]: http://getbootstrap.com/
 [foundation]: http://foundation.zurb.com/
+[initializr]: http://www.initializr.com/

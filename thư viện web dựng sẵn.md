@@ -21,7 +21,7 @@ Người dùng chỉ việc lấy về rồi layout trang web dựa trên nhữn
 - [html5boilerplate]
 - [twitter boostrap]
 - [foundation]
-- Gúc `Front-end Framework` búp phát ra một đống. [Top ten nhé](http://www.sitepoint.com/top-10-front-end-development-frameworks/), nhiều cực. Lại còn [đây nữa](http://www.awwwards.com/what-are-frameworks-22-best-responsive-css-frameworks-for-web-design.html) đcm... Sao lắm thế nhỉ?
+- Gúc `Front-end Framework` búp phát ra một đống. [Top ten này](http://www.sitepoint.com/top-10-front-end-development-frameworks/). Lại còn [đây nữa](http://www.awwwards.com/what-are-frameworks-22-best-responsive-css-frameworks-for-web-design.html) đcm... Sao lắm thế nhỉ?
 
 
 [html5boilerplate]: http://html5boilerplate.com/

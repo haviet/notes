@@ -13,8 +13,8 @@ Người dùng chỉ việc lấy về rồi layout trang web dựa trên nhữn
 ##Hại:
 
 - Phải học sử dụng, nhất là khi làm styling.
-- Tinh chỉnh theo yêu cầu cụ thể khá nhọc nhằn.
-- Khó tích hợp vào một CMS có sẵn.
+- Tinh chỉnh theo yêu cầu cụ thể khá nhọc.
+
 
 ##Tham khảo:
 
